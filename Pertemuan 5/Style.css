@@ -1,0 +1,26 @@
+header{
+    background-color:#3661e2;
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+}
+header nav ul{
+    display: flex;
+    gap: 50px;
+    justify-content: space-evenly;
+}
+header nav ul li {
+    color: white;
+}
+li{
+    list-style: none;
+}
+header nav div a{
+    list-style: none;
+    color: white;
+}
+body{
+    margin: auto;
+}
